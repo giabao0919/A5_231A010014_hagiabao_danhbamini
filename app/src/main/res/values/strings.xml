@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A5_231A010014</string>
+    <string name="title">Lab A5 – Danh bạ mini</string>
+    <string name="student">Hà Gia Bảo – MSSV 231A010014</string>
+    <string name="hint_name">Họ và tên</string>
+    <string name="hint_phone">Số điện thoại</string>
+    <string name="hint_email">Email</string>
+    <string name="open_detail">Xem chi tiết (mở màn hình 2)</string>
+    <string name="returned_none">Chưa có dữ liệu trả về</string>
+    <string name="returned">Màn hình 2 trả về: %1$s</string>
+    <string name="returned_cancel">Người dùng đã hủy, không có dữ liệu trả về</string>
+    <string name="section_implicit">Intent ngầm định (gọi ứng dụng khác)</string>
+    <string name="call">Gọi</string>
+    <string name="web">Web trường</string>
+    <string name="share">Chia sẻ</string>
+    <string name="detail_title">Chi tiết liên hệ</string>
+    <string name="detail_format">Họ tên: %1$s\nĐiện thoại: %2$s\nEmail: %3$s</string>
+    <string name="sent_by">Dữ liệu được gửi từ: %1$s</string>
+    <string name="hint_new_name">Sửa họ tên rồi bấm Lưu</string>
+    <string name="save_back">Lưu &amp; quay lại</string>
+    <string name="cancel">Hủy</string>
+    <string name="no_data">Không nhận được dữ liệu</string>
+    <string name="err_empty">Không được để trống</string>
+    <string name="err_no_app">Máy chưa có ứng dụng phù hợp để mở</string>
+    <string name="school_url">https://vhu.edu.vn</string>
+    <string name="share_subject">Thông tin liên hệ</string>
+    <string name="share_text">Liên hệ: %1$s – %2$s</string>
+    <string name="share_title">Chia sẻ qua</string>
+</resources>
